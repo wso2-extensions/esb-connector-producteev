@@ -4,7 +4,7 @@
     "category": "Productivity Tools",
     "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/Producteev+Connector",
     "description": "The Producteev connector allows you to access the Producteev REST API through WSO2 ESB. Producteev is a task management app for teams. It is really powerful yet seamlessly simple to use. Producteev helps to manage projects, tasks and e-mail across the organization efficiently.",
-    "status": "Active",
+    "status": "Inactive",
     "labels": [
         "connector"
     ],
